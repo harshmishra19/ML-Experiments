@@ -1,1 +1,1 @@
-# Demonstrating-Logistic-Regression-For-Binary-Classification
+# ML Lab Experiments
